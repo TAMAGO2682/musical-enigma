@@ -1,4 +1,4 @@
-# name
+# Name
 musical-enigma
 
 ## Overview
