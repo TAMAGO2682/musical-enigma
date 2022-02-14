@@ -3,7 +3,12 @@ musical-enigma
 
 ## Overview
 My first repository...
-A script to do prime factorization by powershell.
+This repository is where I'm going to put my powershell scripts.
+First, I'm working on a script to do prime factorization.
+
+## Usage
+- Prime_Factorization.ps1
+ Run script and input number. (under 2147483591)
 
 ## Requirement
 - Powershell
